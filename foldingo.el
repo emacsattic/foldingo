@@ -2,6 +2,8 @@
 ;;; Copyright (C) 1995-2001 by Christian Queinnec (University Paris 6)
 ;;; Distributed under Gnu Public License. 
 
+;;; License: GPL
+
 ;;; Emacs Lisp Archive Entry
 ;;; Filename: foldingo.el
 ;;; Author: Christian Queinnec <Christian.Queinnec@lip6.fr>
